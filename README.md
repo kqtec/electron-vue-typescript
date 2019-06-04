@@ -4,6 +4,12 @@
 
 > An electron-vue-typescript project
 
+> Vuex
+
+> bulma
+
+> node-sass
+
 #### Build Setup
 
 ``` bash
