@@ -58,7 +58,7 @@
     "bulma": "^0.7.5",
     "electron-rebuild": "^1.7.3",
     "element-ui": "^2.3.4",
-    "sequelize": "^4.37.6",
+    "sequelize": "^5.15.1",
     "ts-loader": "^3.5.0",
     "typescript": "^2.8.1",
     "vue": "^2.6.10",
