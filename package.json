@@ -54,7 +54,7 @@
     }
   },
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "bulma": "^0.7.5",
     "electron-rebuild": "^1.7.3",
     "element-ui": "^2.3.4",
